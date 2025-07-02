@@ -1,0 +1,30 @@
+[
+    {
+        "name":"IOS Style",
+        "icon":"",
+        "version": "1",
+        "version_code": 1,
+        "download_url": "https://github.com/msavindu10/FlashboardAssets/raw/refs/heads/master/emojiStyle/iOS17.4(U15.1+Emojipedia16.0).ttf"
+    },
+    {
+        "name":"WhatsApp Style",
+        "icon":"",
+        "version": "1",
+        "version_code": 1,
+        "download_url": "https://github.com/msavindu10/FlashboardAssets/raw/refs/heads/master/emojiStyle/WhatsApp_v2.24.8.85.ttf"
+    },
+    {
+        "name":"Facebook Style",
+        "icon":"",
+        "version": "1",
+        "version_code": 1,
+        "download_url": "https://github.com/msavindu10/FlashboardAssets/raw/refs/heads/master/emojiStyle/Facebook15.0.ttf"
+    },
+    {
+        "name":"Windows 3D Style",
+        "icon":"",
+        "version": "1",
+        "version_code": 1,
+        "download_url": "https://github.com/msavindu10/FlashboardAssets/raw/refs/heads/master/emojiStyle/Windows_3D_Emoji_14+15.ttf"
+    }  
+]
